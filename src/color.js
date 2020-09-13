@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+//package installed and imported
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 toast.configure();
